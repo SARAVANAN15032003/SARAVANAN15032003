@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SARAVANAN15032003/](https://github.com/SARAVANAN15032003/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/SARAVANAN15032003/)
 
-- 📫 How to reach me **n.paramasivam510@gmail.com**
+- 📫 How to reach me [Mail]**n.paramasivam510@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EFtuAXR7Y7ok_X3o9clZ0YQcpbiUzcEU/view?usp=sharing)
 
