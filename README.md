@@ -10,7 +10,7 @@
 
 - 📫 How to reach me [Mail]**n.paramasivam510@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EFtuAXR7Y7ok_X3o9clZ0YQcpbiUzcEU/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1EFtuAXR7Y7ok_X3o9clZ0YQcpbiUzcEU/view?usp=sharing](https://drive.google.com/file/d/1G_Eh-p828j8HIhjzD_tlGLn1HTF6C5q7/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
